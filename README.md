@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Antique786
-- 👀 I’m interested in coding. 
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in coding , electrical design,
+- 🌱 I’m currently learning c++, python ,Etap ,Autocad etc.
 - 💞️
 - 📫 
 <!---
